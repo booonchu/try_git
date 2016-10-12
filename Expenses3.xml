@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<EmployeeInfo>
+		<Name>Super Bon1</Name>
+		<Date>2001-01-01</Date>
+		<Code>1</Code>
+		<NewField>1</NewField>
+	</EmployeeInfo>
+	<ExpenseItem>
+		<Date>2002-01-01</Date>
+		<Description>Airfare</Description>
+		<Amount>1500.34</Amount>
+		<Amount1>1500.34</Amount1>
+	</ExpenseItem>
+	<ExpenseItem>
+		<Date>2002-01-02</Date>
+		<Description>Hotel</Description>
+		<Amount>200</Amount>
+		<Amount1>20</Amount1>
+	</ExpenseItem>
+	<ExpenseItem>
+		<Date>2002-01-03</Date>
+		<Description>Taxi Fare</Description>
+		<Amount>100</Amount>
+		<Amount1>AAA</Amount1>
+	</ExpenseItem>
+	<ExpenseItem>
+		<Date>2002-01-04</Date>
+		<Description>Long Distance Phone Charges</Description>
+		<Amount>57.89</Amount>
+		<Amount1/>
+	</ExpenseItem>
+	<ExpenseItem>
+		<Date>2002-01-05</Date>
+		<Description>Food</Description>
+		<Amount>82.19</Amount>
+		<Amount1/>
+	</ExpenseItem>
+	<ExpenseItem>
+		<Date>2002-01-06</Date>
+		<Description>Food</Description>
+		<Amount>17.89</Amount>
+		<Amount1/>
+	</ExpenseItem>
+	<ExpenseItem>
+		<Date>2002-01-07</Date>
+		<Description>Personal Items</Description>
+		<Amount>32.54</Amount>
+		<Amount1/>
+	</ExpenseItem>
+	<ExpenseItem>
+		<Date>2002-01-08</Date>
+		<Description>Taxi Fare</Description>
+		<Amount>k</Amount>
+		<Amount1/>
+	</ExpenseItem>
+	<ExpenseItem>
+		<Date>2002-01-09</Date>
+		<Description>Food</Description>
+		<Amount>36.45</Amount>
+		<Amount1/>
+	</ExpenseItem>
+	<ExpenseItem>
+		<Date>2002-01-10</Date>
+		<Description>New Suit</Description>
+		<Amount>750</Amount>
+		<Amount1/>
+	</ExpenseItem>
+	<ExpenseItem>
+		<Date>2002-01-10</Date>
+		<Description>New Suit</Description>
+		<Amount>900</Amount>
+		<Amount1/>
+	</ExpenseItem>
+	<ExpenseItem>
+		<Date>2002-01-10</Date>
+		<Description>Food</Description>
+		<Amount>999</Amount>
+		<Amount1/>
+	</ExpenseItem>
+	<ExpenseItem>
+		<Date>2015-01-11</Date>
+		<Description>DDD</Description>
+		<Amount>600</Amount>
+		<Amount1/>
+	</ExpenseItem>
+</Root>
